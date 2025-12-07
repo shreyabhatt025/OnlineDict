@@ -8,6 +8,8 @@ Search any English word
 Get its meaning, phonetic spelling, and part of speech
 Clean and beginner-friendly UI
 Uses Dictionary API
+.
+.
 
 ---
 
