@@ -1,16 +1,36 @@
-# React + Vite
+# Shreya Bhatt ---- Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with React.js, Framer Motion, and modern UI design principles. It showcases my work, projects, skills, and journey as a developer passionate about Mern and Web Technologies
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#Tech Stack
 
-## React Compiler
+Category	Tools / Libraries
+Frontend	React.js, HTML5, CSS3, JavaScript (ES6+)
+Styling	Tailwind CSS / Custom CSS
+Animation	Framer Motion
+Contact Form	EmailJS
+Version Control	Git & GitHub
+Deployment	Vercel / Netlify
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+#Setup Instructions
 
-## Expanding the ESLint configuration
+# 1️⃣ Clone the repository
+git clone https://github.com/shreyabhatt025/Shreya-portfolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 2️⃣ Navigate to project directory
+cd shreya-portfolio
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Run development server
+npm start or npm run dev
+
+🌟 Deployment
+Deployed seamlessly on Vercel for continuous integration and fast CDN delivery. Every push to the main branch triggers an automatic rebuild and deployment.
+
+# Contact
+If you’d like to collaborate or just say hi 👋, feel free to reach out!
+
+📧 Email: bhattshreya024@gmail.com
