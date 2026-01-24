@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website built with React.js, Framer Motion, and modern UI design principles. It showcases my work, projects, skills, and journey as a developer passionate about Mern and Web Technologies
 
 
-#Tech Stack
+##Tech Stack
 
 Category	Tools / Libraries
 Frontend	React.js, HTML5, CSS3, JavaScript (ES6+)
@@ -13,24 +13,24 @@ Contact Form	EmailJS
 Version Control	Git & GitHub
 Deployment	Vercel / Netlify
 
-#Setup Instructions
+##Setup Instructions
 
-# 1️⃣ Clone the repository
+1) Clone the repository
 git clone https://github.com/shreyabhatt025/Shreya-portfolio
 
-# 2️⃣ Navigate to project directory
+2) Navigate to project directory
 cd shreya-portfolio
 
-# 3️⃣ Install dependencies
+3) Install dependencies
 npm install
 
-# 4️⃣ Run development server
+4) Run development server
 npm start or npm run dev
 
-🌟 Deployment
+## Deployment
 Deployed seamlessly on Vercel for continuous integration and fast CDN delivery. Every push to the main branch triggers an automatic rebuild and deployment.
 
-# Contact
+## Contact
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 📧 Email: bhattshreya024@gmail.com
